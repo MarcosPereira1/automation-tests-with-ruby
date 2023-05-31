@@ -1,4 +1,4 @@
-# Project Title: Test Automation with Ruby
+# Test Automation with Ruby
 
 ## Overview
 This project is aimed at studying and implementing test automation using Ruby. It leverages several Ruby gems and libraries to facilitate the automation process and ensure efficient and reliable testing.
@@ -26,11 +26,11 @@ ruby --version
 
 2. Clone the project repository from GitHub:
 
-git clone <repository_url>
+git clone <[repository_url](https://github.com/MarcosPereira1/automation-tests-with-ruby.git)>
 
 3. Navigate to the project directory:
 
-cd <project_directory>
+cd <Gemfile>
 
 4. Install the required gems and dependencies using Bundler:
 
